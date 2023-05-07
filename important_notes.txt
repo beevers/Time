@@ -1,0 +1,1 @@
+flutter build apk --split-per-abi - To release different version of apk.
